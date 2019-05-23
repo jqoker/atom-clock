@@ -1,7 +1,7 @@
 {
   "name": "atom-clock-alarm",
   "main": "./lib/atom-clock",
-  "version": "0.0.1",
+  "version": "0.1.17",
   "description": "Display a customizable clock in the status bar. forked from atom-clock",
   "author": {
     "name": "hongliang.yu",
@@ -15,7 +15,7 @@
     "statusbar",
     "momentjs"
   ],
-  "repository": "https://github.com/jqoker/atom-clock",
+  "repository": "https://github.com/jqoker/atom-clock-alarm",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
