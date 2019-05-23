@@ -14,7 +14,7 @@ Display a customizable clock in the status bar.
 ### Installation
 The clock can be installed through Atom. Alternatively, you can use `apm`:
 
-`apm install atom-clock`
+`apm install atom-clock-alarm`
 
 ### Features
 * Customizable time format and locale: any format and locale supported by [`moment.js`](http://momentjs.com/) is supported by `atom-clock` as well!
