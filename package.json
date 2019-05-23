@@ -1,12 +1,12 @@
 {
-  "name": "atom-clock",
+  "name": "atom-clock-alarm",
   "main": "./lib/atom-clock",
-  "version": "0.1.16",
-  "description": "Display a customizable clock in the status bar.",
+  "version": "0.0.1",
+  "description": "Display a customizable clock in the status bar. forked from atom-clock",
   "author": {
-    "name": "Antonio Bevilacqua",
-    "email": "b3by.in.th3.sky@gmail.com",
-    "url": "https://github.com/b3by"
+    "name": "hongliang.yu",
+    "email": "yuhongliang900@163.com",
+    "url": "https://github.com/jqoker"
   },
   "keywords": [
     "clock",
@@ -15,7 +15,7 @@
     "statusbar",
     "momentjs"
   ],
-  "repository": "https://github.com/b3by/atom-clock",
+  "repository": "https://github.com/jqoker/atom-clock",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
