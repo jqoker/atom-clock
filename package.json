@@ -1,7 +1,7 @@
 {
   "name": "atom-clock-alarm",
   "main": "./lib/atom-clock-alarm",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Display a customizable clock in the status bar. forked from atom-clock",
   "author": {
     "name": "hongliang.yu",
